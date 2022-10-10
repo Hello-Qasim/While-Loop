@@ -2,7 +2,7 @@
 
 // While loop produce the same result just like for loop but it doesn't need a counter .While loop is versatile and can be use without the counter variable
 
-// WHEN TO USE WHILE LOOP ?
+// WHEN IS TO USE WHILE LOOP ?
 
 // When you are not sure about the iteration or repetation use while loop. So whenever you do need a loop without a counter use while loop
 
